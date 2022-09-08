@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CasinoGame:jar">
+    <output-path>$USER_HOME$/Desktop/CasinoGame JAVA</output-path>
+    <root id="archive" name="CasinoGame.jar">
+      <element id="module-output" name="CasinoGame" />
+    </root>
+  </artifact>
+</component>
